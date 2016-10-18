@@ -81,7 +81,7 @@ a.hide-a:hover{
 	margin-bottom: 0px!important;
 }
 
-.jumbotron-projects-1 {
+.jumbotron-2015 {
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -92,6 +92,20 @@ a.hide-a:hover{
 	padding-left: 0;
 	padding: 0;
 	background-image: url("../images/members_jumbo.jpg");
+	margin-bottom: 0px!important;
+}
+
+.jumbotron-2016 {
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 90%;
+	color: #eee;
+	text-align: center;
+	position: relative;
+	padding-left: 0;
+	padding: 0;
+	background-image: url("../images/rocksat-2016/team_photo.jpg");
 	margin-bottom: 0px!important;
 }
 
