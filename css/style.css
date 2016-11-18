@@ -480,6 +480,56 @@ a.hide-a:hover{
 	background-image: url("../images/members/ramy_funny.jpg");
 }
 
+.member-nick {
+	background-image: url("../images/members/nick.jpg");
+}
+
+.member-nick:hover {
+	background-image: url("../images/members/nick_funny.jpg");
+}
+
+.member-marcus {
+	background-image: url("../images/members/marcus.jpg");
+}
+
+.member-marcus:hover {
+	background-image: url("../images/members/marcus_funny.jpg");
+}
+
+.member-nicholas {
+	background-image: url("../images/members/holder.jpg");
+}
+
+.member-nicholas:hover {
+	background-image: url("../images/members/holder_funny.jpg");
+}
+
+.member-austin {
+	background-image: url("../images/members/holder.jpg");
+}
+
+.member-austin:hover {
+	background-image: url("../images/members/holder_funny.jpg");
+}
+
+.member-karl {
+	background-image: url("../images/members/holder.jpg");
+}
+
+.member-karl:hover {
+	background-image: url("../images/members/holder_funny.jpg");
+}
+
+.member-sagar {
+	background-image: url("../images/members/holder.jpg");
+}
+
+.member-sagar:hover {
+	background-image: url("../images/members/holder_funny.jpg");
+}
+
+
+
 .footer {
 	background-color: rgb(34, 34, 34);
 	border-color: #52b88b;
