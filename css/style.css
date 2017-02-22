@@ -81,6 +81,21 @@ a.hide-a:hover{
 	margin-bottom: 0px!important;
 }
 
+.jumbotron-2014 {
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 90%;
+	height: 500px;
+	color: #eee;
+	text-align: center;
+	position: relative;
+	padding-left: 0;
+	padding: 0;
+	background-image: url("../images/rocksat-2014/teamphoto.jpg");
+	margin-bottom: 0px!important;
+}
+
 .jumbotron-2015 {
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -496,28 +511,28 @@ a.hide-a:hover{
 	background-image: url("../images/members/marcus_funny.jpg");
 }
 
-.member-nicholas {
-	background-image: url("../images/members/holder.jpg");
-}
-
-.member-nicholas:hover {
-	background-image: url("../images/members/holder_funny.jpg");
-}
-
-.member-austin {
-	background-image: url("../images/members/holder.jpg");
-}
-
-.member-austin:hover {
-	background-image: url("../images/members/holder_funny.jpg");
-}
-
 .member-karl {
-	background-image: url("../images/members/holder.jpg");
+	background-image: url("../images/members/karl.jpg");
 }
 
 .member-karl:hover {
-	background-image: url("../images/members/holder_funny.jpg");
+	background-image: url("../images/members/karl_funny.jpg");
+}
+
+.member-nicholas {
+	background-image: url("../images/members/nick_c.jpg");
+}
+
+.member-nicholas:hover {
+	background-image: url("../images/members/nick_c_funny.jpg");
+}
+
+.member-austin {
+	background-image: url("../images/members/austin.jpg");
+}
+
+.member-austin:hover {
+	background-image: url("../images/members/austin_funny.jpg");
 }
 
 .member-sagar {
